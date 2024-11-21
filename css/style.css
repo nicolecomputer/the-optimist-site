@@ -1,0 +1,35 @@
+#headline {
+    background-color: black;
+    color: white;
+    padding: 12px;
+}
+
+#headline h1 {
+    color: white;
+    margin-bottom: 8px;
+}
+
+#headline h2 {
+    color: white;
+}
+
+#stage {
+    background-color: #fdf0d5;
+    min-height: 250px;
+    border-radius: 8px;
+    border: 4px solid rgb(161, 161, 161);
+    box-shadow: 6px 6px 2px rgba(99, 99, 99, 0.348);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+    padding: 20px;
+}
+
+#cover {
+    border: 1px solid black;
+}
+
+footer p {
+    color: rgba(32, 32, 32, 0.6)
+}
