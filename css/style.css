@@ -22,7 +22,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 10px 0;
+    margin: 10px 0 20px 0;
     padding: 20px;
 }
 
@@ -31,5 +31,7 @@
 }
 
 footer p {
-    color: rgba(32, 32, 32, 0.6)
+    background-color: black;
+    color: white;
+    padding: 8px
 }
